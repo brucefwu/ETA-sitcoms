@@ -1,0 +1,355 @@
+<?xml version='1.0' ?>
+<topicModel>
+  <topic id='0' alpha='2.0120247333331793' totalTokens='100643'>
+	<word rank='1' count='2640.0'>gon</word>
+	<word rank='2' count='1748.0'>see</word>
+	<word rank='3' count='1376.0'>guys</word>
+	<word rank='4' count='1338.0'>great</word>
+	<word rank='5' count='1307.0'>man</word>
+	<word rank='6' count='1304.0'>let</word>
+	<word rank='7' count='1284.0'>could</word>
+	<word rank='8' count='1113.0'>sorry</word>
+	<word rank='9' count='1034.0'>much</word>
+	<word rank='10' count='1024.0'>mean</word>
+	<word rank='11' count='1015.0'>thing</word>
+	<word rank='12' count='966.0'>sure</word>
+	<word rank='13' count='936.0'>yes</word>
+	<word rank='14' count='898.0'>actually</word>
+	<word rank='15' count='891.0'>need</word>
+	<word rank='16' count='870.0'>lot</word>
+	<word rank='17' count='848.0'>thought</word>
+	<word rank='18' count='842.0'>guy</word>
+	<word rank='19' count='838.0'>something</word>
+	<word rank='20' count='830.0'>call</word>
+  </topic>
+  <topic id='1' alpha='0.17953851885808866' totalTokens='4102'>
+	<word rank='1' count='173.0'>birthday</word>
+	<word rank='2' count='88.0'>cake</word>
+	<word rank='3' count='81.0'>happy</word>
+	<word rank='4' count='69.0'>party</word>
+	<word rank='5' count='34.0'>surprise</word>
+	<word rank='6' count='32.0'>mother</word>
+	<word rank='7' count='31.0'>possum</word>
+	<word rank='8' count='31.0'>lice</word>
+	<word rank='9' count='29.0'>old</word>
+	<word rank='10' count='27.0'>camping</word>
+	<word rank='11' count='27.0'>blood</word>
+	<word rank='12' count='27.0'>bear</word>
+	<word rank='13' count='23.0'>bears</word>
+	<word rank='14' count='23.0'>sick</word>
+	<word rank='15' count='21.0'>pee</word>
+	<word rank='16' count='21.0'>planning</word>
+	<word rank='17' count='21.0'>whoa</word>
+	<word rank='18' count='21.0'>eat</word>
+	<word rank='19' count='20.0'>floor</word>
+	<word rank='20' count='19.0'>wash</word>
+  </topic>
+  <topic id='2' alpha='0.30244994381825074' totalTokens='13686'>
+	<word rank='1' count='269.0'>park</word>
+	<word rank='2' count='257.0'>government</word>
+	<word rank='3' count='256.0'>town</word>
+	<word rank='4' count='252.0'>city</word>
+	<word rank='5' count='148.0'>campaign</word>
+	<word rank='6' count='143.0'>idea</word>
+	<word rank='7' count='134.0'>vote</word>
+	<word rank='8' count='131.0'>department</word>
+	<word rank='9' count='128.0'>pit</word>
+	<word rank='10' count='122.0'>amazing</word>
+	<word rank='11' count='118.0'>parks</word>
+	<word rank='12' count='112.0'>win</word>
+	<word rank='13' count='107.0'>gon</word>
+	<word rank='14' count='98.0'>meeting</word>
+	<word rank='15' count='90.0'>public</word>
+	<word rank='16' count='75.0'>house</word>
+	<word rank='17' count='74.0'>tomorrow</word>
+	<word rank='18' count='70.0'>council</word>
+	<word rank='19' count='69.0'>team</word>
+	<word rank='20' count='68.0'>literally</word>
+  </topic>
+  <topic id='3' alpha='0.1568520849656332' totalTokens='4614'>
+	<word rank='1' count='445.0'>party</word>
+	<word rank='2' count='60.0'>tonight</word>
+	<word rank='3' count='51.0'>gift</word>
+	<word rank='4' count='51.0'>pizza</word>
+	<word rank='5' count='44.0'>night</word>
+	<word rank='6' count='38.0'>parties</word>
+	<word rank='7' count='37.0'>planning</word>
+	<word rank='8' count='36.0'>pum</word>
+	<word rank='9' count='34.0'>looks</word>
+	<word rank='10' count='33.0'>tree</word>
+	<word rank='11' count='32.0'>costume</word>
+	<word rank='12' count='30.0'>bachelor</word>
+	<word rank='13' count='26.0'>cupcakes</word>
+	<word rank='14' count='25.0'>making</word>
+	<word rank='15' count='24.0'>committee</word>
+	<word rank='16' count='24.0'>tickets</word>
+	<word rank='17' count='23.0'>neck</word>
+	<word rank='18' count='22.0'>dead</word>
+	<word rank='19' count='22.0'>drink</word>
+	<word rank='20' count='21.0'>beep</word>
+  </topic>
+  <topic id='4' alpha='0.3279336039528498' totalTokens='8564'>
+	<word rank='1' count='258.0'>tonight</word>
+	<word rank='2' count='190.0'>wedding</word>
+	<word rank='3' count='175.0'>love</word>
+	<word rank='4' count='160.0'>night</word>
+	<word rank='5' count='143.0'>married</word>
+	<word rank='6' count='121.0'>date</word>
+	<word rank='7' count='86.0'>happy</word>
+	<word rank='8' count='86.0'>drink</word>
+	<word rank='9' count='70.0'>party</word>
+	<word rank='10' count='68.0'>gay</word>
+	<word rank='11' count='66.0'>band</word>
+	<word rank='12' count='66.0'>song</word>
+	<word rank='13' count='63.0'>award</word>
+	<word rank='14' count='62.0'>wine</word>
+	<word rank='15' count='61.0'>beer</word>
+	<word rank='16' count='61.0'>music</word>
+	<word rank='17' count='60.0'>mom</word>
+	<word rank='18' count='59.0'>ladies</word>
+	<word rank='19' count='57.0'>dinner</word>
+	<word rank='20' count='57.0'>beautiful</word>
+  </topic>
+  <topic id='5' alpha='1.6035886386885794' totalTokens='72932'>
+	<word rank='1' count='1426.0'>say</word>
+	<word rank='2' count='1196.0'>two</word>
+	<word rank='3' count='1132.0'>let</word>
+	<word rank='4' count='993.0'>need</word>
+	<word rank='5' count='979.0'>talk</word>
+	<word rank='6' count='919.0'>way</word>
+	<word rank='7' count='909.0'>people</word>
+	<word rank='8' count='839.0'>love</word>
+	<word rank='9' count='812.0'>day</word>
+	<word rank='10' count='790.0'>even</word>
+	<word rank='11' count='768.0'>put</word>
+	<word rank='12' count='709.0'>never</word>
+	<word rank='13' count='573.0'>made</word>
+	<word rank='14' count='566.0'>make</word>
+	<word rank='15' count='554.0'>nothing</word>
+	<word rank='16' count='553.0'>find</word>
+	<word rank='17' count='526.0'>also</word>
+	<word rank='18' count='524.0'>feel</word>
+	<word rank='19' count='516.0'>could</word>
+	<word rank='20' count='504.0'>bad</word>
+  </topic>
+  <topic id='6' alpha='0.19293797223147438' totalTokens='6246'>
+	<word rank='1' count='160.0'>paper</word>
+	<word rank='2' count='93.0'>company</word>
+	<word rank='3' count='82.0'>money</word>
+	<word rank='4' count='82.0'>business</word>
+	<word rank='5' count='82.0'>clients</word>
+	<word rank='6' count='73.0'>sell</word>
+	<word rank='7' count='65.0'>idea</word>
+	<word rank='8' count='63.0'>offer</word>
+	<word rank='9' count='59.0'>client</word>
+	<word rank='10' count='58.0'>sales</word>
+	<word rank='11' count='54.0'>salesman</word>
+	<word rank='12' count='52.0'>sale</word>
+	<word rank='13' count='51.0'>leads</word>
+	<word rank='14' count='47.0'>make</word>
+	<word rank='15' count='45.0'>place</word>
+	<word rank='16' count='43.0'>farm</word>
+	<word rank='17' count='42.0'>phone</word>
+	<word rank='18' count='41.0'>ideas</word>
+	<word rank='19' count='38.0'>chairs</word>
+	<word rank='20' count='38.0'>decision</word>
+  </topic>
+  <topic id='7' alpha='0.16321206992800133' totalTokens='4664'>
+	<word rank='1' count='220.0'>baby</word>
+	<word rank='2' count='54.0'>art</word>
+	<word rank='3' count='46.0'>dance</word>
+	<word rank='4' count='43.0'>bus</word>
+	<word rank='5' count='42.0'>beautiful</word>
+	<word rank='6' count='42.0'>water</word>
+	<word rank='7' count='42.0'>call</word>
+	<word rank='8' count='41.0'>mural</word>
+	<word rank='9' count='32.0'>pounds</word>
+	<word rank='10' count='29.0'>fish</word>
+	<word rank='11' count='28.0'>fat</word>
+	<word rank='12' count='27.0'>watch</word>
+	<word rank='13' count='26.0'>paint</word>
+	<word rank='14' count='24.0'>painting</word>
+	<word rank='15' count='24.0'>weight</word>
+	<word rank='16' count='24.0'>hospital</word>
+	<word rank='17' count='23.0'>shh</word>
+	<word rank='18' count='22.0'>crib</word>
+	<word rank='19' count='22.0'>corn</word>
+	<word rank='20' count='22.0'>shower</word>
+  </topic>
+  <topic id='8' alpha='0.2144545442876652' totalTokens='5410'>
+	<word rank='1' count='125.0'>women</word>
+	<word rank='2' count='90.0'>club</word>
+	<word rank='3' count='90.0'>woman</word>
+	<word rank='4' count='68.0'>sex</word>
+	<word rank='5' count='48.0'>men</word>
+	<word rank='6' count='43.0'>girls</word>
+	<word rank='7' count='42.0'>boys</word>
+	<word rank='8' count='42.0'>relationship</word>
+	<word rank='9' count='39.0'>husband</word>
+	<word rank='10' count='36.0'>office</word>
+	<word rank='11' count='34.0'>record</word>
+	<word rank='12' count='33.0'>pregnant</word>
+	<word rank='13' count='32.0'>email</word>
+	<word rank='14' count='31.0'>sent</word>
+	<word rank='15' count='30.0'>penis</word>
+	<word rank='16' count='29.0'>photo</word>
+	<word rank='17' count='29.0'>mistake</word>
+	<word rank='18' count='27.0'>trash</word>
+	<word rank='19' count='27.0'>store</word>
+	<word rank='20' count='25.0'>treat</word>
+  </topic>
+  <topic id='9' alpha='0.1674128728449724' totalTokens='4793'>
+	<word rank='1' count='71.0'>show</word>
+	<word rank='2' count='44.0'>god</word>
+	<word rank='3' count='42.0'>presentation</word>
+	<word rank='4' count='41.0'>trip</word>
+	<word rank='5' count='41.0'>sing</word>
+	<word rank='6' count='39.0'>head</word>
+	<word rank='7' count='38.0'>shot</word>
+	<word rank='8' count='38.0'>open</word>
+	<word rank='9' count='35.0'>son</word>
+	<word rank='10' count='35.0'>boo</word>
+	<word rank='11' count='34.0'>prank</word>
+	<word rank='12' count='34.0'>song</word>
+	<word rank='13' count='33.0'>station</word>
+	<word rank='14' count='33.0'>special</word>
+	<word rank='15' count='30.0'>toast</word>
+	<word rank='16' count='29.0'>hunting</word>
+	<word rank='17' count='28.0'>shoot</word>
+	<word rank='18' count='28.0'>ten</word>
+	<word rank='19' count='28.0'>week</word>
+	<word rank='20' count='27.0'>ring</word>
+  </topic>
+  <topic id='10' alpha='0.4439289459472096' totalTokens='15857'>
+	<word rank='1' count='320.0'>yes</word>
+	<word rank='2' count='273.0'>going</word>
+	<word rank='3' count='269.0'>office</word>
+	<word rank='4' count='218.0'>back</word>
+	<word rank='5' count='180.0'>company</word>
+	<word rank='6' count='179.0'>sales</word>
+	<word rank='7' count='171.0'>today</word>
+	<word rank='8' count='169.0'>day</word>
+	<word rank='9' count='165.0'>alright</word>
+	<word rank='10' count='162.0'>paper</word>
+	<word rank='11' count='156.0'>branch</word>
+	<word rank='12' count='150.0'>come</word>
+	<word rank='13' count='147.0'>everybody</word>
+	<word rank='14' count='137.0'>god</word>
+	<word rank='15' count='133.0'>desk</word>
+	<word rank='16' count='132.0'>business</word>
+	<word rank='17' count='131.0'>meeting</word>
+	<word rank='18' count='123.0'>warehouse</word>
+	<word rank='19' count='122.0'>gay</word>
+	<word rank='20' count='116.0'>question</word>
+  </topic>
+  <topic id='11' alpha='0.4191402491077359' totalTokens='9791'>
+	<word rank='1' count='432.0'>job</word>
+	<word rank='2' count='279.0'>manager</word>
+	<word rank='3' count='234.0'>want</word>
+	<word rank='4' count='187.0'>new</word>
+	<word rank='5' count='130.0'>plan</word>
+	<word rank='6' count='117.0'>company</word>
+	<word rank='7' count='110.0'>work</word>
+	<word rank='8' count='100.0'>assistant</word>
+	<word rank='9' count='98.0'>might</word>
+	<word rank='10' count='96.0'>office</word>
+	<word rank='11' count='90.0'>team</word>
+	<word rank='12' count='68.0'>interview</word>
+	<word rank='13' count='64.0'>raise</word>
+	<word rank='14' count='59.0'>position</word>
+	<word rank='15' count='58.0'>dream</word>
+	<word rank='16' count='57.0'>gone</word>
+	<word rank='17' count='57.0'>regional</word>
+	<word rank='18' count='56.0'>list</word>
+	<word rank='19' count='56.0'>news</word>
+	<word rank='20' count='54.0'>charge</word>
+  </topic>
+  <topic id='12' alpha='0.13791482117144274' totalTokens='4234'>
+	<word rank='1' count='59.0'>sick</word>
+	<word rank='2' count='49.0'>book</word>
+	<word rank='3' count='40.0'>pie</word>
+	<word rank='4' count='40.0'>born</word>
+	<word rank='5' count='40.0'>world</word>
+	<word rank='6' count='39.0'>boat</word>
+	<word rank='7' count='35.0'>points</word>
+	<word rank='8' count='35.0'>family</word>
+	<word rank='9' count='34.0'>flu</word>
+	<word rank='10' count='34.0'>business</word>
+	<word rank='11' count='33.0'>school</word>
+	<word rank='12' count='31.0'>foot</word>
+	<word rank='13' count='28.0'>money</word>
+	<word rank='14' count='26.0'>ship</word>
+	<word rank='15' count='25.0'>rabies</word>
+	<word rank='16' count='23.0'>chop</word>
+	<word rank='17' count='23.0'>grid</word>
+	<word rank='18' count='23.0'>capsule</word>
+	<word rank='19' count='22.0'>pies</word>
+	<word rank='20' count='22.0'>hospital</word>
+  </topic>
+  <topic id='13' alpha='1.5633751514054741' totalTokens='62298'>
+	<word rank='1' count='2630.0'>want</word>
+	<word rank='2' count='2583.0'>going</word>
+	<word rank='3' count='1096.0'>take</word>
+	<word rank='4' count='954.0'>okay</word>
+	<word rank='5' count='912.0'>come</word>
+	<word rank='6' count='729.0'>look</word>
+	<word rank='7' count='686.0'>yes</word>
+	<word rank='8' count='676.0'>stop</word>
+	<word rank='9' count='599.0'>people</word>
+	<word rank='10' count='564.0'>please</word>
+	<word rank='11' count='561.0'>back</word>
+	<word rank='12' count='505.0'>home</word>
+	<word rank='13' count='457.0'>tell</word>
+	<word rank='14' count='423.0'>everybody</word>
+	<word rank='15' count='403.0'>office</word>
+	<word rank='16' count='394.0'>make</word>
+	<word rank='17' count='378.0'>three</word>
+	<word rank='18' count='365.0'>second</word>
+	<word rank='19' count='354.0'>last</word>
+	<word rank='20' count='352.0'>car</word>
+  </topic>
+  <topic id='14' alpha='0.17542888513920038' totalTokens='4393'>
+	<word rank='1' count='52.0'>black</word>
+	<word rank='2' count='46.0'>dead</word>
+	<word rank='3' count='44.0'>prison</word>
+	<word rank='4' count='36.0'>heart</word>
+	<word rank='5' count='32.0'>test</word>
+	<word rank='6' count='31.0'>police</word>
+	<word rank='7' count='30.0'>drugs</word>
+	<word rank='8' count='30.0'>kid</word>
+	<word rank='9' count='28.0'>died</word>
+	<word rank='10' count='28.0'>somebody</word>
+	<word rank='11' count='25.0'>urine</word>
+	<word rank='12' count='25.0'>hit</word>
+	<word rank='13' count='25.0'>indian</word>
+	<word rank='14' count='25.0'>punch</word>
+	<word rank='15' count='23.0'>high</word>
+	<word rank='16' count='23.0'>name</word>
+	<word rank='17' count='22.0'>die</word>
+	<word rank='18' count='21.0'>alive</word>
+	<word rank='19' count='21.0'>hero</word>
+	<word rank='20' count='20.0'>bird</word>
+  </topic>
+  <topic id='15' alpha='0.18808518694110934' totalTokens='6588'>
+	<word rank='1' count='88.0'>new</word>
+	<word rank='2' count='64.0'>money</word>
+	<word rank='3' count='61.0'>concert</word>
+	<word rank='4' count='54.0'>free</word>
+	<word rank='5' count='54.0'>business</word>
+	<word rank='6' count='53.0'>perfect</word>
+	<word rank='7' count='53.0'>help</word>
+	<word rank='8' count='51.0'>land</word>
+	<word rank='9' count='43.0'>sebastian</word>
+	<word rank='10' count='43.0'>merger</word>
+	<word rank='11' count='42.0'>place</word>
+	<word rank='12' count='40.0'>town</word>
+	<word rank='13' count='40.0'>store</word>
+	<word rank='14' count='39.0'>sign</word>
+	<word rank='15' count='35.0'>stick</word>
+	<word rank='16' count='33.0'>tax</word>
+	<word rank='17' count='32.0'>library</word>
+	<word rank='18' count='31.0'>slogan</word>
+	<word rank='19' count='31.0'>pizza</word>
+	<word rank='20' count='29.0'>charity</word>
+  </topic>
+</topicModel>

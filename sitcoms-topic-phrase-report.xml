@@ -1,0 +1,675 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.0120247333331793" totalTokens="100643" titles="let see, gon, best friend, guys, great, man, could, sorry, much, mean">
+	<word weight="0.026231332531820396" count="2640">gon</word>
+	<word weight="0.017368321691523504" count="1748">see</word>
+	<word weight="0.01367208847113063" count="1376">guys</word>
+	<word weight="0.013294516260445336" count="1338">great</word>
+	<word weight="0.012986496825412598" count="1307">man</word>
+	<word weight="0.012956688492990073" count="1304">let</word>
+	<word weight="0.01275796627683992" count="1284">could</word>
+	<word weight="0.011058891328756098" count="1113">sorry</word>
+	<word weight="0.010273938574962988" count="1034">much</word>
+	<word weight="0.010174577466887911" count="1024">mean</word>
+	<word weight="0.010085152469620341" count="1015">thing</word>
+	<word weight="0.009598283040052462" count="966">sure</word>
+	<word weight="0.009300199715827231" count="936">yes</word>
+	<word weight="0.008922627505141938" count="898">actually</word>
+	<word weight="0.008853074729489383" count="891">need</word>
+	<word weight="0.008644416402531722" count="870">lot</word>
+	<word weight="0.008425821964766551" count="848">thought</word>
+	<word weight="0.008366205299921504" count="842">guy</word>
+	<word weight="0.008326460856691474" count="838">something</word>
+	<word weight="0.008246971970231411" count="830">call</word>
+	<phrase weight="0.0014880188824465082" count="29">let see</phrase>
+	<phrase weight="0.0012314639027143518" count="24">best friend</phrase>
+	<phrase weight="8.722869310893325E-4" count="17">years old</phrase>
+	<phrase weight="8.722869310893325E-4" count="17">thing ever</phrase>
+	<phrase weight="7.696649391964698E-4" count="15">gon make</phrase>
+	<phrase weight="7.696649391964698E-4" count="15">gon gon</phrase>
+	<phrase weight="7.696649391964698E-4" count="15">see see</phrase>
+	<phrase weight="7.696649391964698E-4" count="15">sorry sorry</phrase>
+	<phrase weight="7.183539432500384E-4" count="14">parking lot</phrase>
+	<phrase weight="7.183539432500384E-4" count="14">yes yes</phrase>
+	<phrase weight="7.183539432500384E-4" count="14">need help</phrase>
+	<phrase weight="7.183539432500384E-4" count="14">maybe could</phrase>
+	<phrase weight="6.670429473036072E-4" count="13">call call</phrase>
+	<phrase weight="6.670429473036072E-4" count="13">gon happen</phrase>
+	<phrase weight="6.157319513571759E-4" count="12">let let</phrase>
+	<phrase weight="6.157319513571759E-4" count="12">need something</phrase>
+	<phrase weight="6.157319513571759E-4" count="12">nice see</phrase>
+	<phrase weight="6.157319513571759E-4" count="12">gon need</phrase>
+	<phrase weight="6.157319513571759E-4" count="12">make sure</phrase>
+	<phrase weight="6.157319513571759E-4" count="12">great great</phrase>
+  </topic>
+  <topic id="1" alpha="0.17953851885808866" totalTokens="4102" titles="birthday, cake, happy, party, surprise, mother, possum, lice, old, camping">
+	<word weight="0.04217454900048757" count="173">birthday</word>
+	<word weight="0.02145294978059483" count="88">cake</word>
+	<word weight="0.019746465138956608" count="81">happy</word>
+	<word weight="0.01682106289614822" count="69">party</word>
+	<word weight="0.008288639687957094" count="34">surprise</word>
+	<word weight="0.0078010726474890294" count="32">mother</word>
+	<word weight="0.007557289127254997" count="31">possum</word>
+	<word weight="0.007557289127254997" count="31">lice</word>
+	<word weight="0.007069722086786933" count="29">old</word>
+	<word weight="0.006582155046318869" count="27">camping</word>
+	<word weight="0.006582155046318869" count="27">blood</word>
+	<word weight="0.006582155046318869" count="27">bear</word>
+	<word weight="0.00560702096538274" count="23">bears</word>
+	<word weight="0.00560702096538274" count="23">sick</word>
+	<word weight="0.005119453924914676" count="21">pee</word>
+	<word weight="0.005119453924914676" count="21">planning</word>
+	<word weight="0.005119453924914676" count="21">whoa</word>
+	<word weight="0.005119453924914676" count="21">eat</word>
+	<word weight="0.0048756704046806435" count="20">floor</word>
+	<word weight="0.004631886884446611" count="19">wash</word>
+	<phrase weight="0.01977401129943503" count="7">happy birthday</phrase>
+	<phrase weight="0.01694915254237288" count="6">birthday party</phrase>
+	<phrase weight="0.011299435028248588" count="4">birthday cake</phrase>
+	<phrase weight="0.00847457627118644" count="3">meatball parm</phrase>
+	<phrase weight="0.00847457627118644" count="3">roller skates</phrase>
+	<phrase weight="0.005649717514124294" count="2">teddy bears</phrase>
+	<phrase weight="0.005649717514124294" count="2">whoa whoa whoa</phrase>
+	<phrase weight="0.005649717514124294" count="2">wooden mallard</phrase>
+	<phrase weight="0.005649717514124294" count="2">conflict resolution</phrase>
+	<phrase weight="0.005649717514124294" count="2">cage matches</phrase>
+	<phrase weight="0.005649717514124294" count="2">suggestive remarks</phrase>
+	<phrase weight="0.005649717514124294" count="2">birthday birthday</phrase>
+	<phrase weight="0.005649717514124294" count="2">teddy bear</phrase>
+	<phrase weight="0.005649717514124294" count="2">eagleton eagleton</phrase>
+	<phrase weight="0.005649717514124294" count="2">skee ball</phrase>
+	<phrase weight="0.005649717514124294" count="2">pyramid scheme</phrase>
+	<phrase weight="0.005649717514124294" count="2">doh doh</phrase>
+	<phrase weight="0.005649717514124294" count="2">skating rink</phrase>
+	<phrase weight="0.005649717514124294" count="2">foot sub</phrase>
+	<phrase weight="0.005649717514124294" count="2">worst birthday</phrase>
+  </topic>
+  <topic id="2" alpha="0.30244994381825074" totalTokens="13686" titles="park, government, town, city, campaign, idea, vote, department, pit, amazing">
+	<word weight="0.01965512202250475" count="269">park</word>
+	<word weight="0.018778313605143943" count="257">government</word>
+	<word weight="0.018705246237030543" count="256">town</word>
+	<word weight="0.01841297676457694" count="252">city</word>
+	<word weight="0.010813970480783282" count="148">campaign</word>
+	<word weight="0.01044863364021628" count="143">idea</word>
+	<word weight="0.009791027327195674" count="134">vote</word>
+	<word weight="0.009571825222855473" count="131">department</word>
+	<word weight="0.009352623118515271" count="128">pit</word>
+	<word weight="0.008914218909834867" count="122">amazing</word>
+	<word weight="0.008621949437381265" count="118">parks</word>
+	<word weight="0.008183545228700862" count="112">win</word>
+	<word weight="0.00781820838813386" count="107">gon</word>
+	<word weight="0.0071606020751132544" count="98">meeting</word>
+	<word weight="0.00657606313020605" count="90">public</word>
+	<word weight="0.0054800526085050415" count="75">house</word>
+	<word weight="0.005406985240391641" count="74">tomorrow</word>
+	<word weight="0.005114715767938039" count="70">council</word>
+	<word weight="0.005041648399824638" count="69">team</word>
+	<word weight="0.0049685810317112375" count="68">literally</word>
+	<phrase weight="0.013303769401330377" count="18">city council</phrase>
+	<phrase weight="0.011825572801182557" count="16">city councilor</phrase>
+	<phrase weight="0.008869179600886918" count="12">public forum</phrase>
+	<phrase weight="0.007390983000739098" count="10">build park</phrase>
+	<phrase weight="0.004434589800443459" count="6">parks department</phrase>
+	<phrase weight="0.004434589800443459" count="6">federal government</phrase>
+	<phrase weight="0.003695491500369549" count="5">city hall</phrase>
+	<phrase weight="0.003695491500369549" count="5">ribbon cutting</phrase>
+	<phrase weight="0.0029563932002956393" count="4">sex scandal</phrase>
+	<phrase weight="0.0029563932002956393" count="4">deputy director</phrase>
+	<phrase weight="0.0029563932002956393" count="4">fell pit</phrase>
+	<phrase weight="0.0029563932002956393" count="4">water fountain</phrase>
+	<phrase weight="0.0029563932002956393" count="4">city councilwoman</phrase>
+	<phrase weight="0.0029563932002956393" count="4">win election</phrase>
+	<phrase weight="0.0022172949002217295" count="3">park project</phrase>
+	<phrase weight="0.0022172949002217295" count="3">city planner</phrase>
+	<phrase weight="0.0022172949002217295" count="3">congressional campaign</phrase>
+	<phrase weight="0.0022172949002217295" count="3">vote vote</phrase>
+	<phrase weight="0.0022172949002217295" count="3">write article</phrase>
+	<phrase weight="0.0022172949002217295" count="3">government project</phrase>
+  </topic>
+  <topic id="3" alpha="0.1568520849656332" totalTokens="4614" titles="party, tonight, gift, pizza, parties, planning, pum, looks, tree, costume">
+	<word weight="0.0964456003467707" count="445">party</word>
+	<word weight="0.013003901170351105" count="60">tonight</word>
+	<word weight="0.011053315994798439" count="51">gift</word>
+	<word weight="0.011053315994798439" count="51">pizza</word>
+	<word weight="0.00953619419159081" count="44">night</word>
+	<word weight="0.0082358040745557" count="38">parties</word>
+	<word weight="0.008019072388383182" count="37">planning</word>
+	<word weight="0.007802340702210663" count="36">pum</word>
+	<word weight="0.007368877329865626" count="34">looks</word>
+	<word weight="0.007152145643693108" count="33">tree</word>
+	<word weight="0.006935413957520589" count="32">costume</word>
+	<word weight="0.006501950585175552" count="30">bachelor</word>
+	<word weight="0.005635023840485479" count="26">cupcakes</word>
+	<word weight="0.005418292154312961" count="25">making</word>
+	<word weight="0.005201560468140442" count="24">committee</word>
+	<word weight="0.005201560468140442" count="24">tickets</word>
+	<word weight="0.004984828781967924" count="23">neck</word>
+	<word weight="0.004768097095795405" count="22">dead</word>
+	<word weight="0.004768097095795405" count="22">drink</word>
+	<word weight="0.004551365409622887" count="21">beep</word>
+	<phrase weight="0.025" count="11">bachelor party</phrase>
+	<phrase weight="0.015909090909090907" count="7">party planning committee</phrase>
+	<phrase weight="0.00909090909090909" count="4">party party</phrase>
+	<phrase weight="0.00909090909090909" count="4">party tonight</phrase>
+	<phrase weight="0.006818181818181818" count="3">parum pum pum pum</phrase>
+	<phrase weight="0.006818181818181818" count="3">invite party</phrase>
+	<phrase weight="0.006818181818181818" count="3">party starts</phrase>
+	<phrase weight="0.004545454545454545" count="2">rubbing neck rubbing</phrase>
+	<phrase weight="0.004545454545454545" count="2">costume rational</phrase>
+	<phrase weight="0.004545454545454545" count="2">holiday wishes</phrase>
+	<phrase weight="0.004545454545454545" count="2">pig rib</phrase>
+	<phrase weight="0.004545454545454545" count="2">moustache moustache</phrase>
+	<phrase weight="0.004545454545454545" count="2">equal parts</phrase>
+	<phrase weight="0.004545454545454545" count="2">pizza party</phrase>
+	<phrase weight="0.004545454545454545" count="2">costume party</phrase>
+	<phrase weight="0.004545454545454545" count="2">powdered seahorse</phrase>
+	<phrase weight="0.004545454545454545" count="2">party celebration</phrase>
+	<phrase weight="0.004545454545454545" count="2">classy party</phrase>
+	<phrase weight="0.004545454545454545" count="2">paintball lessons</phrase>
+	<phrase weight="0.004545454545454545" count="2">fat eggnog</phrase>
+  </topic>
+  <topic id="4" alpha="0.3279336039528498" totalTokens="8564" titles="tonight, wedding, love, married, date, happy, drink, party, gay, band">
+	<word weight="0.030126109294722092" count="258">tonight</word>
+	<word weight="0.022185894441849603" count="190">wedding</word>
+	<word weight="0.02043437645959832" count="175">love</word>
+	<word weight="0.018682858477347034" count="160">night</word>
+	<word weight="0.016697804764128913" count="143">married</word>
+	<word weight="0.014128911723493695" count="121">date</word>
+	<word weight="0.01004203643157403" count="86">happy</word>
+	<word weight="0.01004203643157403" count="86">drink</word>
+	<word weight="0.008173750583839328" count="70">party</word>
+	<word weight="0.007940214852872489" count="68">gay</word>
+	<word weight="0.0077066791219056515" count="66">band</word>
+	<word weight="0.0077066791219056515" count="66">song</word>
+	<word weight="0.0073563755254553945" count="63">award</word>
+	<word weight="0.007239607659971976" count="62">wine</word>
+	<word weight="0.007122839794488557" count="61">beer</word>
+	<word weight="0.007122839794488557" count="61">music</word>
+	<word weight="0.007006071929005138" count="60">mom</word>
+	<word weight="0.006889304063521719" count="59">ladies</word>
+	<word weight="0.006655768332554881" count="57">dinner</word>
+	<word weight="0.006655768332554881" count="57">beautiful</word>
+	<phrase weight="0.00727802037845706" count="5">boo boo</phrase>
+	<phrase weight="0.004366812227074236" count="3">wrapped shrimp</phrase>
+	<phrase weight="0.004366812227074236" count="3">gay bar</phrase>
+	<phrase weight="0.004366812227074236" count="3">kick kick</phrase>
+	<phrase weight="0.002911208151382824" count="2">marriage license</phrase>
+	<phrase weight="0.002911208151382824" count="2">swimming cap</phrase>
+	<phrase weight="0.002911208151382824" count="2">twins twins</phrase>
+	<phrase weight="0.002911208151382824" count="2">zoning codes</phrase>
+	<phrase weight="0.002911208151382824" count="2">bridesmaid dress</phrase>
+	<phrase weight="0.002911208151382824" count="2">lawfully wedded</phrase>
+	<phrase weight="0.002911208151382824" count="2">bride wedding</phrase>
+	<phrase weight="0.002911208151382824" count="2">guest honor</phrase>
+	<phrase weight="0.002911208151382824" count="2">designated driver</phrase>
+	<phrase weight="0.002911208151382824" count="2">band rock</phrase>
+	<phrase weight="0.002911208151382824" count="2">beer beer</phrase>
+	<phrase weight="0.002911208151382824" count="2">wife effigy</phrase>
+	<phrase weight="0.002911208151382824" count="2">getting married</phrase>
+	<phrase weight="0.002911208151382824" count="2">grizzledump grizzledump</phrase>
+	<phrase weight="0.002911208151382824" count="2">summer internship</phrase>
+	<phrase weight="0.002911208151382824" count="2">vested pronounce</phrase>
+  </topic>
+  <topic id="5" alpha="1.6035886386885794" totalTokens="72932" titles="every day, say, two, let, need, talk, way, people, love, even">
+	<word weight="0.01955245982559096" count="1426">say</word>
+	<word weight="0.01639883727307629" count="1196">two</word>
+	<word weight="0.015521307519333078" count="1132">let</word>
+	<word weight="0.013615422585422038" count="993">need</word>
+	<word weight="0.01342346295179071" count="979">talk</word>
+	<word weight="0.012600778807656447" count="919">way</word>
+	<word weight="0.01246366478363407" count="909">people</word>
+	<word weight="0.011503866615477431" count="839">love</word>
+	<word weight="0.011133658750617012" count="812">day</word>
+	<word weight="0.010832007897767783" count="790">even</word>
+	<word weight="0.010530357044918554" count="768">put</word>
+	<word weight="0.00972138430318653" count="709">never</word>
+	<word weight="0.007856633576482202" count="573">made</word>
+	<word weight="0.007760653759666539" count="566">make</word>
+	<word weight="0.0075961169308396866" count="554">nothing</word>
+	<word weight="0.007582405528437449" count="553">find</word>
+	<word weight="0.007212197663577031" count="526">also</word>
+	<word weight="0.007184774858772555" count="524">feel</word>
+	<word weight="0.007075083639554653" count="516">could</word>
+	<word weight="0.006910546810727801" count="504">bad</word>
+	<phrase weight="0.0020543051089674884" count="23">every day</phrase>
+	<phrase weight="0.001697034655234012" count="19">conference room</phrase>
+	<phrase weight="0.001607717041800643" count="18">end day</phrase>
+	<phrase weight="0.0014290818149339049" count="16">months ago</phrase>
+	<phrase weight="0.001250446588067167" count="14">let talk</phrase>
+	<phrase weight="0.0011611289746337977" count="13">two three</phrase>
+	<phrase weight="0.0011611289746337977" count="13">even though</phrase>
+	<phrase weight="0.0011611289746337977" count="13">love love</phrase>
+	<phrase weight="0.0011611289746337977" count="13">three months</phrase>
+	<phrase weight="0.0010718113612004287" count="12">two weeks</phrase>
+	<phrase weight="0.0010718113612004287" count="12">two days</phrase>
+	<phrase weight="0.0010718113612004287" count="12">say say</phrase>
+	<phrase weight="9.824937477670597E-4" count="11">two people</phrase>
+	<phrase weight="9.824937477670597E-4" count="11">let start</phrase>
+	<phrase weight="8.931761343336906E-4" count="10">feel bad</phrase>
+	<phrase weight="8.931761343336906E-4" count="10">say anything</phrase>
+	<phrase weight="8.931761343336906E-4" count="10">need talk</phrase>
+	<phrase weight="8.038585209003215E-4" count="9">weeks ago</phrase>
+	<phrase weight="7.145409074669524E-4" count="8">two two</phrase>
+	<phrase weight="7.145409074669524E-4" count="8">need two</phrase>
+  </topic>
+  <topic id="6" alpha="0.19293797223147438" totalTokens="6246" titles="paper, company, money, business, clients, sell, idea, offer, sales, salesman">
+	<word weight="0.025616394492475183" count="160">paper</word>
+	<word weight="0.014889529298751201" count="93">company</word>
+	<word weight="0.013128402177393531" count="82">money</word>
+	<word weight="0.013128402177393531" count="82">business</word>
+	<word weight="0.013128402177393531" count="82">clients</word>
+	<word weight="0.011687479987191803" count="73">sell</word>
+	<word weight="0.010406660262568044" count="65">idea</word>
+	<word weight="0.010086455331412104" count="63">offer</word>
+	<word weight="0.009446045469100224" count="59">client</word>
+	<word weight="0.009285943003522255" count="58">sales</word>
+	<word weight="0.008645533141210375" count="54">salesman</word>
+	<word weight="0.008325328210054436" count="52">sale</word>
+	<word weight="0.008165225744476465" count="51">leads</word>
+	<word weight="0.007524815882164585" count="47">make</word>
+	<word weight="0.007204610951008645" count="45">place</word>
+	<word weight="0.0068844060198527054" count="43">farm</word>
+	<word weight="0.0067243035542747355" count="42">phone</word>
+	<word weight="0.006564201088696766" count="41">ideas</word>
+	<word weight="0.006083893691962856" count="38">chairs</word>
+	<word weight="0.006083893691962856" count="38">decision</word>
+	<phrase weight="0.011131725417439703" count="6">golden ticket</phrase>
+	<phrase weight="0.011131725417439703" count="6">paper company</phrase>
+	<phrase weight="0.0074211502782931356" count="4">croak croak</phrase>
+	<phrase weight="0.0074211502782931356" count="4">paper salesman</phrase>
+	<phrase weight="0.0074211502782931356" count="4">minority executive</phrase>
+	<phrase weight="0.0074211502782931356" count="4">beet farm</phrase>
+	<phrase weight="0.0055658627087198514" count="3">new chairs</phrase>
+	<phrase weight="0.0055658627087198514" count="3">condo complex</phrase>
+	<phrase weight="0.0055658627087198514" count="3">beet farmer</phrase>
+	<phrase weight="0.0037105751391465678" count="2">sell chairs</phrase>
+	<phrase weight="0.0037105751391465678" count="2">beet farming</phrase>
+	<phrase weight="0.0037105751391465678" count="2">copier paper</phrase>
+	<phrase weight="0.0037105751391465678" count="2">unfortunate error</phrase>
+	<phrase weight="0.0037105751391465678" count="2">hoo hoo</phrase>
+	<phrase weight="0.0037105751391465678" count="2">blah blah</phrase>
+	<phrase weight="0.0037105751391465678" count="2">chairs chairs</phrase>
+	<phrase weight="0.0037105751391465678" count="2">selling paper</phrase>
+	<phrase weight="0.0037105751391465678" count="2">offer money</phrase>
+	<phrase weight="0.0037105751391465678" count="2">golden ticket idea</phrase>
+	<phrase weight="0.0037105751391465678" count="2">marry reply</phrase>
+  </topic>
+  <topic id="7" alpha="0.16321206992800133" totalTokens="4664" titles="baby, art, dance, bus, beautiful, water, call, mural, pounds, fish">
+	<word weight="0.04716981132075472" count="220">baby</word>
+	<word weight="0.011578044596912522" count="54">art</word>
+	<word weight="0.00986277873070326" count="46">dance</word>
+	<word weight="0.009219554030874785" count="43">bus</word>
+	<word weight="0.009005145797598629" count="42">beautiful</word>
+	<word weight="0.009005145797598629" count="42">water</word>
+	<word weight="0.009005145797598629" count="42">call</word>
+	<word weight="0.00879073756432247" count="41">mural</word>
+	<word weight="0.00686106346483705" count="32">pounds</word>
+	<word weight="0.006217838765008576" count="29">fish</word>
+	<word weight="0.006003430531732418" count="28">fat</word>
+	<word weight="0.005789022298456261" count="27">watch</word>
+	<word weight="0.005574614065180103" count="26">paint</word>
+	<word weight="0.005145797598627788" count="24">painting</word>
+	<word weight="0.005145797598627788" count="24">weight</word>
+	<word weight="0.005145797598627788" count="24">hospital</word>
+	<word weight="0.00493138936535163" count="23">shh</word>
+	<word weight="0.0047169811320754715" count="22">crib</word>
+	<word weight="0.0047169811320754715" count="22">corn</word>
+	<word weight="0.0047169811320754715" count="22">shower</word>
+	<phrase weight="0.012919896640826873" count="5">baby baby</phrase>
+	<phrase weight="0.0103359173126615" count="4">dance dance</phrase>
+	<phrase weight="0.007751937984496124" count="3">baby shower</phrase>
+	<phrase weight="0.007751937984496124" count="3">jury duty</phrase>
+	<phrase weight="0.007751937984496124" count="3">baby daddy</phrase>
+	<phrase weight="0.007751937984496124" count="3">chill pill</phrase>
+	<phrase weight="0.00516795865633075" count="2">defaced mural</phrase>
+	<phrase weight="0.00516795865633075" count="2">turkey chili</phrase>
+	<phrase weight="0.00516795865633075" count="2">soy bean</phrase>
+	<phrase weight="0.00516795865633075" count="2">turkey burger</phrase>
+	<phrase weight="0.00516795865633075" count="2">ultra feast</phrase>
+	<phrase weight="0.00516795865633075" count="2">fructose corn syrup</phrase>
+	<phrase weight="0.00516795865633075" count="2">partay bus</phrase>
+	<phrase weight="0.00516795865633075" count="2">art contest</phrase>
+	<phrase weight="0.002583979328165375" count="1">confirmation pronto</phrase>
+	<phrase weight="0.002583979328165375" count="1">brown spicy</phrase>
+	<phrase weight="0.002583979328165375" count="1">mama mama</phrase>
+	<phrase weight="0.002583979328165375" count="1">fully processed</phrase>
+	<phrase weight="0.002583979328165375" count="1">resident chemical</phrase>
+	<phrase weight="0.002583979328165375" count="1">mush mush</phrase>
+  </topic>
+  <topic id="8" alpha="0.2144545442876652" totalTokens="5410" titles="women, club, woman, sex, girls, boys, relationship, husband, office, record">
+	<word weight="0.02310536044362292" count="125">women</word>
+	<word weight="0.0166358595194085" count="90">club</word>
+	<word weight="0.0166358595194085" count="90">woman</word>
+	<word weight="0.012569316081330868" count="68">sex</word>
+	<word weight="0.0088724584103512" count="48">men</word>
+	<word weight="0.007948243992606284" count="43">girls</word>
+	<word weight="0.007763401109057301" count="42">boys</word>
+	<word weight="0.007763401109057301" count="42">relationship</word>
+	<word weight="0.007208872458410351" count="39">husband</word>
+	<word weight="0.006654343807763401" count="36">office</word>
+	<word weight="0.006284658040665434" count="34">record</word>
+	<word weight="0.006099815157116451" count="33">pregnant</word>
+	<word weight="0.005914972273567467" count="32">email</word>
+	<word weight="0.005730129390018484" count="31">sent</word>
+	<word weight="0.005545286506469501" count="30">penis</word>
+	<word weight="0.005360443622920518" count="29">photo</word>
+	<word weight="0.005360443622920518" count="29">mistake</word>
+	<word weight="0.004990757855822551" count="27">trash</word>
+	<word weight="0.004990757855822551" count="27">store</word>
+	<word weight="0.0046210720887245845" count="25">treat</word>
+	<phrase weight="0.013605442176870748" count="6">boys club</phrase>
+	<phrase weight="0.009070294784580499" count="4">ping pong</phrase>
+	<phrase weight="0.006802721088435374" count="3">pregnancy test</phrase>
+	<phrase weight="0.0045351473922902496" count="2">sex marriage</phrase>
+	<phrase weight="0.0045351473922902496" count="2">slap wrist</phrase>
+	<phrase weight="0.0045351473922902496" count="2">cops cops</phrase>
+	<phrase weight="0.0045351473922902496" count="2">sex predator</phrase>
+	<phrase weight="0.0045351473922902496" count="2">yacht club</phrase>
+	<phrase weight="0.0045351473922902496" count="2">unplanned pregnancy</phrase>
+	<phrase weight="0.0045351473922902496" count="2">files drawer</phrase>
+	<phrase weight="0.0045351473922902496" count="2">baseball coach</phrase>
+	<phrase weight="0.0045351473922902496" count="2">brief recess</phrase>
+	<phrase weight="0.0045351473922902496" count="2">puffing chest</phrase>
+	<phrase weight="0.0045351473922902496" count="2">tum tum</phrase>
+	<phrase weight="0.0045351473922902496" count="2">practicing abstinence</phrase>
+	<phrase weight="0.0045351473922902496" count="2">condo condo</phrase>
+	<phrase weight="0.0045351473922902496" count="2">men women</phrase>
+	<phrase weight="0.0045351473922902496" count="2">pattern disrespect</phrase>
+	<phrase weight="0.0022675736961451248" count="1">thong underwear</phrase>
+	<phrase weight="0.0022675736961451248" count="1">woman woman</phrase>
+  </topic>
+  <topic id="9" alpha="0.1674128728449724" totalTokens="4793" titles="show, god, presentation, trip, sing, head, shot, open, son, boo">
+	<word weight="0.014813269351137075" count="71">show</word>
+	<word weight="0.00918005424577509" count="44">god</word>
+	<word weight="0.008762779052785313" count="42">presentation</word>
+	<word weight="0.008554141456290423" count="41">trip</word>
+	<word weight="0.008554141456290423" count="41">sing</word>
+	<word weight="0.008136866263300646" count="39">head</word>
+	<word weight="0.007928228666805759" count="38">shot</word>
+	<word weight="0.007928228666805759" count="38">open</word>
+	<word weight="0.007302315877321094" count="35">son</word>
+	<word weight="0.007302315877321094" count="35">boo</word>
+	<word weight="0.007093678280826205" count="34">prank</word>
+	<word weight="0.007093678280826205" count="34">song</word>
+	<word weight="0.006885040684331317" count="33">station</word>
+	<word weight="0.006885040684331317" count="33">special</word>
+	<word weight="0.006259127894846651" count="30">toast</word>
+	<word weight="0.006050490298351763" count="29">hunting</word>
+	<word weight="0.0058418527018568745" count="28">shoot</word>
+	<word weight="0.0058418527018568745" count="28">ten</word>
+	<word weight="0.0058418527018568745" count="28">week</word>
+	<word weight="0.005633215105361986" count="27">ring</word>
+	<phrase weight="0.014367816091954023" count="5">waffle iron</phrase>
+	<phrase weight="0.008620689655172414" count="3">data mining</phrase>
+	<phrase weight="0.008620689655172414" count="3">gas station</phrase>
+	<phrase weight="0.008620689655172414" count="3">cheers cheers</phrase>
+	<phrase weight="0.008620689655172414" count="3">unity quilt</phrase>
+	<phrase weight="0.008620689655172414" count="3">bacon toast</phrase>
+	<phrase weight="0.005747126436781609" count="2">ten thousand dollars</phrase>
+	<phrase weight="0.005747126436781609" count="2">contractually obligated</phrase>
+	<phrase weight="0.005747126436781609" count="2">bag birds</phrase>
+	<phrase weight="0.005747126436781609" count="2">singing show</phrase>
+	<phrase weight="0.005747126436781609" count="2">feather nuggets</phrase>
+	<phrase weight="0.005747126436781609" count="2">shot head</phrase>
+	<phrase weight="0.005747126436781609" count="2">outdated laws</phrase>
+	<phrase weight="0.005747126436781609" count="2">heh heh</phrase>
+	<phrase weight="0.005747126436781609" count="2">pill anxiety</phrase>
+	<phrase weight="0.005747126436781609" count="2">eyes open</phrase>
+	<phrase weight="0.005747126436781609" count="2">ten thousand</phrase>
+	<phrase weight="0.005747126436781609" count="2">crawling mouth</phrase>
+	<phrase weight="0.0028735632183908046" count="1">steam steam</phrase>
+	<phrase weight="0.0028735632183908046" count="1">desperate prove</phrase>
+  </topic>
+  <topic id="10" alpha="0.4439289459472096" totalTokens="15857" titles="yes, going, office, back, company, sales, today, alright, paper, branch">
+	<word weight="0.02018036198524311" count="320">yes</word>
+	<word weight="0.01721637131866053" count="273">going</word>
+	<word weight="0.01696411679384499" count="269">office</word>
+	<word weight="0.013747871602446868" count="218">back</word>
+	<word weight="0.01135145361669925" count="180">company</word>
+	<word weight="0.011288389985495365" count="179">sales</word>
+	<word weight="0.010783880935864286" count="171">today</word>
+	<word weight="0.010657753673456517" count="169">day</word>
+	<word weight="0.010405499148640978" count="165">alright</word>
+	<word weight="0.010216308255029324" count="162">paper</word>
+	<word weight="0.009837926467806016" count="156">branch</word>
+	<word weight="0.009459544680582709" count="150">come</word>
+	<word weight="0.009270353786971055" count="147">everybody</word>
+	<word weight="0.008639717474932206" count="137">god</word>
+	<word weight="0.008387462950116668" count="133">desk</word>
+	<word weight="0.008324399318912783" count="132">business</word>
+	<word weight="0.008261335687708898" count="131">meeting</word>
+	<word weight="0.00775682663807782" count="123">warehouse</word>
+	<word weight="0.007693763006873936" count="122">gay</word>
+	<word weight="0.007315381219650628" count="116">question</word>
+	<phrase weight="0.005068790731354091" count="7">gay gay</phrase>
+	<phrase weight="0.004344677769732078" count="6">hundred dollars</phrase>
+	<phrase weight="0.004344677769732078" count="6">paper company</phrase>
+	<phrase weight="0.003620564808110065" count="5">performance review</phrase>
+	<phrase weight="0.003620564808110065" count="5">paper supplier</phrase>
+	<phrase weight="0.003620564808110065" count="5">dwight dwight</phrase>
+	<phrase weight="0.003620564808110065" count="5">branch branch</phrase>
+	<phrase weight="0.002896451846488052" count="4">meeting today</phrase>
+	<phrase weight="0.002896451846488052" count="4">come back</phrase>
+	<phrase weight="0.002172338884866039" count="3">hundred eighty</phrase>
+	<phrase weight="0.002172338884866039" count="3">office romances</phrase>
+	<phrase weight="0.002172338884866039" count="3">branch managers</phrase>
+	<phrase weight="0.002172338884866039" count="3">branch closing</phrase>
+	<phrase weight="0.002172338884866039" count="3">pam pam</phrase>
+	<phrase weight="0.002172338884866039" count="3">oscar oscar</phrase>
+	<phrase weight="0.002172338884866039" count="3">ryan temp</phrase>
+	<phrase weight="0.002172338884866039" count="3">excellent question</phrase>
+	<phrase weight="0.002172338884866039" count="3">accountability booster</phrase>
+	<phrase weight="0.001448225923244026" count="2">yep yep</phrase>
+	<phrase weight="0.001448225923244026" count="2">yes yes</phrase>
+  </topic>
+  <topic id="11" alpha="0.4191402491077359" totalTokens="9791" titles="job, manager, want, new, plan, company, work, assistant, might, office">
+	<word weight="0.044122152997650904" count="432">job</word>
+	<word weight="0.02849555714431621" count="279">manager</word>
+	<word weight="0.02389949954039424" count="234">want</word>
+	<word weight="0.019099172709631296" count="187">new</word>
+	<word weight="0.013277499744663466" count="130">plan</word>
+	<word weight="0.01194974977019712" count="117">company</word>
+	<word weight="0.011234807476253703" count="110">work</word>
+	<word weight="0.01021346134204882" count="100">assistant</word>
+	<word weight="0.010009192115207843" count="98">might</word>
+	<word weight="0.009804922888366867" count="96">office</word>
+	<word weight="0.009192115207843939" count="90">team</word>
+	<word weight="0.006945153712593198" count="68">interview</word>
+	<word weight="0.006536615258911245" count="64">raise</word>
+	<word weight="0.006025942191808804" count="59">position</word>
+	<word weight="0.005923807578388316" count="58">dream</word>
+	<word weight="0.005821672964967828" count="57">gone</word>
+	<word weight="0.005821672964967828" count="57">regional</word>
+	<word weight="0.0057195383515473396" count="56">list</word>
+	<word weight="0.0057195383515473396" count="56">news</word>
+	<word weight="0.005515269124706363" count="54">charge</word>
+	<phrase weight="0.017094017094017096" count="12">regional manager</phrase>
+	<phrase weight="0.008547008547008548" count="6">assistant regional manager</phrase>
+	<phrase weight="0.007122507122507123" count="5">new job</phrase>
+	<phrase weight="0.007122507122507123" count="5">plan plan</phrase>
+	<phrase weight="0.007122507122507123" count="5">offered job</phrase>
+	<phrase weight="0.005698005698005698" count="4">new manager</phrase>
+	<phrase weight="0.005698005698005698" count="4">inner circle</phrase>
+	<phrase weight="0.005698005698005698" count="4">manager position</phrase>
+	<phrase weight="0.005698005698005698" count="4">dream team</phrase>
+	<phrase weight="0.004273504273504274" count="3">team team</phrase>
+	<phrase weight="0.004273504273504274" count="3">slam dunk</phrase>
+	<phrase weight="0.004273504273504274" count="3">gone gone</phrase>
+	<phrase weight="0.004273504273504274" count="3">lifelong dream</phrase>
+	<phrase weight="0.004273504273504274" count="3">assistant regional</phrase>
+	<phrase weight="0.004273504273504274" count="3">job offer</phrase>
+	<phrase weight="0.004273504273504274" count="3">assistant assistant</phrase>
+	<phrase weight="0.002849002849002849" count="2">job interview</phrase>
+	<phrase weight="0.002849002849002849" count="2">polynesian folk</phrase>
+	<phrase weight="0.002849002849002849" count="2">stable job</phrase>
+	<phrase weight="0.002849002849002849" count="2">manager job</phrase>
+  </topic>
+  <topic id="12" alpha="0.13791482117144274" totalTokens="4234" titles="sick, book, pie, born, world, boat, points, family, flu, business">
+	<word weight="0.013934813415210204" count="59">sick</word>
+	<word weight="0.011572980632971186" count="49">book</word>
+	<word weight="0.00944733112895607" count="40">pie</word>
+	<word weight="0.00944733112895607" count="40">born</word>
+	<word weight="0.00944733112895607" count="40">world</word>
+	<word weight="0.009211147850732168" count="39">boat</word>
+	<word weight="0.00826641473783656" count="35">points</word>
+	<word weight="0.00826641473783656" count="35">family</word>
+	<word weight="0.00803023145961266" count="34">flu</word>
+	<word weight="0.00803023145961266" count="34">business</word>
+	<word weight="0.007794048181388758" count="33">school</word>
+	<word weight="0.007321681624940954" count="31">foot</word>
+	<word weight="0.006613131790269249" count="28">money</word>
+	<word weight="0.006140765233821445" count="26">ship</word>
+	<word weight="0.005904581955597544" count="25">rabies</word>
+	<word weight="0.00543221539914974" count="23">chop</word>
+	<word weight="0.00543221539914974" count="23">grid</word>
+	<word weight="0.00543221539914974" count="23">capsule</word>
+	<word weight="0.0051960321209258385" count="22">pies</word>
+	<word weight="0.0051960321209258385" count="22">hospital</word>
+	<phrase weight="0.010958904109589041" count="4">booze cruise</phrase>
+	<phrase weight="0.010958904109589041" count="4">birth certificate</phrase>
+	<phrase weight="0.005479452054794521" count="2">rhubarb pie</phrase>
+	<phrase weight="0.005479452054794521" count="2">chop chop</phrase>
+	<phrase weight="0.005479452054794521" count="2">brush teeth</phrase>
+	<phrase weight="0.005479452054794521" count="2">chop master</phrase>
+	<phrase weight="0.005479452054794521" count="2">high school</phrase>
+	<phrase weight="0.005479452054794521" count="2">crossword puzzle</phrase>
+	<phrase weight="0.005479452054794521" count="2">swine flu</phrase>
+	<phrase weight="0.005479452054794521" count="2">gotcha journalism</phrase>
+	<phrase weight="0.005479452054794521" count="2">mmm mmm</phrase>
+	<phrase weight="0.005479452054794521" count="2">points redeem</phrase>
+	<phrase weight="0.005479452054794521" count="2">twirl twirl</phrase>
+	<phrase weight="0.005479452054794521" count="2">shabooyah role</phrase>
+	<phrase weight="0.005479452054794521" count="2">religious beliefs</phrase>
+	<phrase weight="0.005479452054794521" count="2">captain ship</phrase>
+	<phrase weight="0.0027397260273972603" count="1">money save</phrase>
+	<phrase weight="0.0027397260273972603" count="1">since world</phrase>
+	<phrase weight="0.0027397260273972603" count="1">quickly spinach</phrase>
+	<phrase weight="0.0027397260273972603" count="1">hazards mainstream</phrase>
+  </topic>
+  <topic id="13" alpha="1.5633751514054741" totalTokens="62298" titles="going going, want, want want, last night, take, okay, come, look, yes, stop">
+	<word weight="0.04221644354553918" count="2630">want</word>
+	<word weight="0.04146200520080901" count="2583">going</word>
+	<word weight="0.01759286012392051" count="1096">take</word>
+	<word weight="0.015313493210054898" count="954">okay</word>
+	<word weight="0.014639314263700279" count="912">come</word>
+	<word weight="0.011701820283155157" count="729">look</word>
+	<word weight="0.01101158945712543" count="686">yes</word>
+	<word weight="0.010851070660374329" count="676">stop</word>
+	<word weight="0.009615075925390864" count="599">people</word>
+	<word weight="0.009053260136762015" count="564">please</word>
+	<word weight="0.009005104497736685" count="561">back</word>
+	<word weight="0.008106199235930528" count="505">home</word>
+	<word weight="0.00733570901152525" count="457">tell</word>
+	<word weight="0.0067899451025715115" count="423">everybody</word>
+	<word weight="0.006468907509069312" count="403">office</word>
+	<word weight="0.006324440591993322" count="394">make</word>
+	<word weight="0.006067610517191563" count="378">three</word>
+	<word weight="0.005858936081415134" count="365">second</word>
+	<word weight="0.005682365404988924" count="354">last</word>
+	<word weight="0.005650261645638704" count="352">car</word>
+	<phrase weight="0.003080082135523614" count="27">going going</phrase>
+	<phrase weight="0.0028519279032626055" count="25">want want</phrase>
+	<phrase weight="0.0023956194387405884" count="21">last night</phrase>
+	<phrase weight="0.0021674652064795803" count="19">stop stop</phrase>
+	<phrase weight="0.0021674652064795803" count="19">little bit</phrase>
+	<phrase weight="0.0018252338580880675" count="16">want come</phrase>
+	<phrase weight="0.0017111567419575632" count="15">five minutes</phrase>
+	<phrase weight="0.0013689253935660506" count="12">ice cream</phrase>
+	<phrase weight="0.0013689253935660506" count="12">ever seen</phrase>
+	<phrase weight="0.0013689253935660506" count="12">going take</phrase>
+	<phrase weight="0.0013689253935660506" count="12">half hour</phrase>
+	<phrase weight="0.0013689253935660506" count="12">okay okay</phrase>
+	<phrase weight="0.0012548482774355464" count="11">going want</phrase>
+	<phrase weight="0.0012548482774355464" count="11">want take</phrase>
+	<phrase weight="0.0011407711613050423" count="10">going anywhere</phrase>
+	<phrase weight="0.0011407711613050423" count="10">ride home</phrase>
+	<phrase weight="0.0011407711613050423" count="10">blah blah</phrase>
+	<phrase weight="0.001026694045174538" count="9">come back</phrase>
+	<phrase weight="0.001026694045174538" count="9">take look</phrase>
+	<phrase weight="0.001026694045174538" count="9">yes yes</phrase>
+  </topic>
+  <topic id="14" alpha="0.17542888513920038" totalTokens="4393" titles="black, dead, prison, heart, test, police, drugs, kid, died, somebody">
+	<word weight="0.011837013430457547" count="52">black</word>
+	<word weight="0.010471204188481676" count="46">dead</word>
+	<word weight="0.010015934441156385" count="44">prison</word>
+	<word weight="0.008194855451855224" count="36">heart</word>
+	<word weight="0.007284315957204644" count="32">test</word>
+	<word weight="0.007056681083541998" count="31">police</word>
+	<word weight="0.0068290462098793536" count="30">drugs</word>
+	<word weight="0.0068290462098793536" count="30">kid</word>
+	<word weight="0.006373776462554063" count="28">died</word>
+	<word weight="0.006373776462554063" count="28">somebody</word>
+	<word weight="0.005690871841566128" count="25">urine</word>
+	<word weight="0.005690871841566128" count="25">hit</word>
+	<word weight="0.005690871841566128" count="25">indian</word>
+	<word weight="0.005690871841566128" count="25">punch</word>
+	<word weight="0.005235602094240838" count="23">high</word>
+	<word weight="0.005235602094240838" count="23">name</word>
+	<word weight="0.005007967220578192" count="22">die</word>
+	<word weight="0.0047803323469155475" count="21">alive</word>
+	<word weight="0.0047803323469155475" count="21">hero</word>
+	<word weight="0.004552697473252903" count="20">bird</word>
+	<phrase weight="0.011961722488038277" count="5">googi googi</phrase>
+	<phrase weight="0.004784688995215311" count="2">police officer</phrase>
+	<phrase weight="0.004784688995215311" count="2">honesty empathy</phrase>
+	<phrase weight="0.004784688995215311" count="2">shoulder pads</phrase>
+	<phrase weight="0.004784688995215311" count="2">wrong stress</phrase>
+	<phrase weight="0.004784688995215311" count="2">vending machines</phrase>
+	<phrase weight="0.004784688995215311" count="2">illegal drugs</phrase>
+	<phrase weight="0.004784688995215311" count="2">diversity training</phrase>
+	<phrase weight="0.004784688995215311" count="2">black tie</phrase>
+	<phrase weight="0.004784688995215311" count="2">drug testing</phrase>
+	<phrase weight="0.004784688995215311" count="2">near near</phrase>
+	<phrase weight="0.004784688995215311" count="2">bomb searched</phrase>
+	<phrase weight="0.004784688995215311" count="2">bomb puck</phrase>
+	<phrase weight="0.004784688995215311" count="2">hummingbird feeders</phrase>
+	<phrase weight="0.004784688995215311" count="2">counter attack</phrase>
+	<phrase weight="0.004784688995215311" count="2">clove cigarettes</phrase>
+	<phrase weight="0.004784688995215311" count="2">failure failure</phrase>
+	<phrase weight="0.004784688995215311" count="2">bummed ignorant slut</phrase>
+	<phrase weight="0.004784688995215311" count="2">republic stands</phrase>
+	<phrase weight="0.0023923444976076554" count="1">hedded hedded</phrase>
+  </topic>
+  <topic id="15" alpha="0.18808518694110934" totalTokens="6588" titles="new, money, concert, free, business, perfect, help, land, sebastian, merger">
+	<word weight="0.013357619914996965" count="88">new</word>
+	<word weight="0.009714632665452338" count="64">money</word>
+	<word weight="0.009259259259259259" count="61">concert</word>
+	<word weight="0.00819672131147541" count="54">free</word>
+	<word weight="0.00819672131147541" count="54">business</word>
+	<word weight="0.008044930176077717" count="53">perfect</word>
+	<word weight="0.008044930176077717" count="53">help</word>
+	<word weight="0.007741347905282332" count="51">land</word>
+	<word weight="0.006527018822100789" count="43">sebastian</word>
+	<word weight="0.006527018822100789" count="43">merger</word>
+	<word weight="0.006375227686703097" count="42">place</word>
+	<word weight="0.006071645415907711" count="40">town</word>
+	<word weight="0.006071645415907711" count="40">store</word>
+	<word weight="0.005919854280510018" count="39">sign</word>
+	<word weight="0.005312689738919247" count="35">stick</word>
+	<word weight="0.005009107468123861" count="33">tax</word>
+	<word weight="0.004857316332726169" count="32">library</word>
+	<word weight="0.004705525197328476" count="31">slogan</word>
+	<word weight="0.004705525197328476" count="31">pizza</word>
+	<word weight="0.0044019429265330905" count="29">charity</word>
+	<phrase weight="0.019572953736654804" count="11">unity concert</phrase>
+	<phrase weight="0.0071174377224199285" count="4">putt putt</phrase>
+	<phrase weight="0.005338078291814947" count="3">library library</phrase>
+	<phrase weight="0.005338078291814947" count="3">income tax</phrase>
+	<phrase weight="0.005338078291814947" count="3">blah blah</phrase>
+	<phrase weight="0.0035587188612099642" count="2">putt putt golf</phrase>
+	<phrase weight="0.0035587188612099642" count="2">vegan restaurant</phrase>
+	<phrase weight="0.0035587188612099642" count="2">bye sebastian</phrase>
+	<phrase weight="0.0035587188612099642" count="2">asked donate</phrase>
+	<phrase weight="0.0035587188612099642" count="2">sebastian died</phrase>
+	<phrase weight="0.0035587188612099642" count="2">bid naming</phrase>
+	<phrase weight="0.0035587188612099642" count="2">invasion privacy</phrase>
+	<phrase weight="0.0035587188612099642" count="2">pile rot</phrase>
+	<phrase weight="0.0035587188612099642" count="2">bright future</phrase>
+	<phrase weight="0.0035587188612099642" count="2">lightning rod</phrase>
+	<phrase weight="0.0035587188612099642" count="2">mini horse</phrase>
+	<phrase weight="0.0035587188612099642" count="2">giant tin</phrase>
+	<phrase weight="0.0035587188612099642" count="2">charity auction</phrase>
+	<phrase weight="0.0035587188612099642" count="2">curse lifted</phrase>
+	<phrase weight="0.0035587188612099642" count="2">pizza calzones</phrase>
+  </topic>
+</topics>
